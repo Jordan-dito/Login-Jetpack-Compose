@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login2024</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+</resources>
